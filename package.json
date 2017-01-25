@@ -9,12 +9,15 @@
     "body-parser": "^1.15.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
-    "express": "~4.14.0",
     "ejs": "^2.4.2",
+    "express": "~4.14.0",
     "jade": "~1.11.0",
     "method-override": "^2.3.7",
     "mongoose": "^4.7.8",
     "morgan": "~1.7.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-router": "^3.0.2",
     "serve-favicon": "~2.3.0"
   }
 }
