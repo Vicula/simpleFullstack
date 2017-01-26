@@ -1,4 +1,4 @@
-# Canvas Warriors
+# Simple Fullstack
 
 ## Run With Compilers
 Start the entire application with:
